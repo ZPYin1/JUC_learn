@@ -9,6 +9,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * 真正的多线程开发，公司开发
  * 线程就是一个单独的资源类，没有任何附属的操作
  * 1.属性、方法
+ *
  */
 public class SaleTicket02 {
 
